@@ -1,0 +1,124 @@
+/* body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.login-container {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 300px;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input[type="text"],
+input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #28a745;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #218838;
+} */
+
+
+.kanth1{
+    /* background-color: aqua; */
+    height: 700px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+.a{
+    /* background-color: blue; */
+    height: 500px;
+    width:45%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+   
+}
+.screen1{
+    background-color:aliceblue;
+    /* background-image: url(https://w0.peakpx.com/wallpaper/514/551/HD-wallpaper-d3-ball-black-ball-3d-beautiful-nice-galaxy-themes-colors-note.jpg); */
+    background-repeat: no-repeat;
+    background-size: 350px 100%;
+    height: 400px;
+    width:50%;
+    border-radius: 8%;   
+}
+.bb{
+    border-radius: 10px;
+    height: 30px;
+    width: 80%;
+}
+.b{
+    /* background-color: black; */
+    height: 600px;
+    width:50%;
+}
+.b img{
+    height: 600px;
+    width: 100%;
+}
+.screen2{
+    /* background-color: black; */
+    height: 160px;
+    width: 100%;
+}
+.screen3{
+    /* background-color: red; */
+    height: 50px;
+    width: 100%;
+}
+.screen4{
+    /* background-color: blue; */
+    height: 200px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#a{
+    height: 30px;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    background-color: aqua;
+}
